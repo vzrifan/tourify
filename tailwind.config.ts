@@ -18,6 +18,9 @@ const config = {
       },
     },
     extend: {
+      backgroundImage: {
+        'auth': "url('/images/auth_bg.png')",
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
