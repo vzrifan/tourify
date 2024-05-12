@@ -22,6 +22,13 @@ const config = {
         'auth': "url('/images/auth_bg.png')",
       },
       colors: {
+        custom:{
+          1:'#335C67',
+          2:'#FFF3B0',
+          3:'#E09F3E',
+          4:'#A3332C',
+          5:'#540B0E',
+        },
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
