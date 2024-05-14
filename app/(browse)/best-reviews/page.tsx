@@ -1,9 +1,5 @@
-const BestReviews = () => {
+export default function BestReviews() {
   return (
-    <div>
-      <h1>Best Reviews</h1>
-    </div>
+    <h1>Best Reviews</h1>
   );
-};
-
-export default BestReviews;
+}
